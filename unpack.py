@@ -10,7 +10,6 @@ print(y)
 print(z)
 
 
-def unpack():
-    return ('Hello',123,235)
 
-x,y,z=unpack()
+
+#x,y,z=unpack()
